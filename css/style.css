@@ -3,4 +3,27 @@ h2{
 }
 p{
   color: tomato;
+  font-size: large;
+  font-style: italic;
+  font-weight: lighter;
+  font-family: sans-serif;
+  text-decoration: underline;
+  text-align: center  ;
+}
+#parent{
+  max-width: 1300px;
+  background-color: rgb(65, 7, 7);
+  margin: auto;
+
+}
+.h3headings{
+color: white;
+text-align: center;
+padding: 20px 0;
+
+}
+.h3p{
+  text-align: center;
+  padding: 20px ;
+  justify-content: center;
 }
