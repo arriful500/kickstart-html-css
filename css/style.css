@@ -14,7 +14,7 @@ p{
   max-width: 1300px;
   background-color: rgb(65, 7, 7);
   margin: auto;
-
+  height: 500px;
 }
 .h3headings{
 color: white;
@@ -26,4 +26,16 @@ padding: 20px 0;
   text-align: center;
   padding: 20px ;
   justify-content: center;
+}
+.btn{
+  background-color: aqua;
+  color: black;
+  border-color: rgb(90, 166, 14);
+  border-radius: 40px;
+  border:rgb(90, 166, 14) dashed ;
+  padding: 2px 2px;
+  border-width: 10px;
+}
+.btn-parent{
+  text-align: center;
 }
